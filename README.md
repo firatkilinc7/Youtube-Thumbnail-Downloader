@@ -1,2 +1,2 @@
 # Youtube-Thumbnail-Downloader
- Youtube thumbnail downloader with jQuery
+ Simple Youtube Thumbnail Downloader with jQuery
